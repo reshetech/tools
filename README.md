@@ -2,6 +2,7 @@
 
 ## Validators
 https://technicalseo.com/seo-tools/robots-txt/ - robots.txt validator
+
 http://www.htaccesscheck.com/ - htaccess validator
 
 ## Formatters
